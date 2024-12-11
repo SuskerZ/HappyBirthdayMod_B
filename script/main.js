@@ -18,11 +18,6 @@ window.addEventListener('load', () => {
     });
 });
 
-<script>
-  var audio = document.getElementById("myaudio");
-  audio.volume = 0.2;
-</script>
-
 // animation timeline
 const animationTimeline = () => {
     // split chars that needs to be animated individually
