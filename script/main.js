@@ -18,14 +18,6 @@ window.addEventListener('load', () => {
     });
 });
 
-<audio autoplay id="myaudio">
-  <source src="./music/hbd1.mp3">
-</audio>
-
-<script>
-  var audio = document.getElementById("myaudio");
-  audio.volume = 0.2;
-</script>
 
 // animation timeline
 const animationTimeline = () => {
