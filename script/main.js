@@ -19,7 +19,7 @@ window.addEventListener('load', () => {
 });
 
 <audio autoplay id="myaudio">
-  <source src="http://lel.com/link/to/stream.m3u">
+  <source src="./music/hbd1.mp3">
 </audio>
 
 <script>
