@@ -18,6 +18,14 @@ window.addEventListener('load', () => {
     });
 });
 
+<audio autoplay id="myaudio">
+  <source src="http://lel.com/link/to/stream.m3u">
+</audio>
+
+<script>
+  var audio = document.getElementById("myaudio");
+  audio.volume = 0.2;
+</script>
 
 // animation timeline
 const animationTimeline = () => {
