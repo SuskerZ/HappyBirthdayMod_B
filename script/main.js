@@ -24,7 +24,7 @@ window.addEventListener('load', () => {
 
 <script>
   var audio = document.getElementById("myaudio");
-  audio.volume = 0.5;
+  audio.volume = 0.8;
 </script>
 
 // animation timeline
